@@ -1,2 +1,2 @@
-# laravel_auto_demo
-this project contain laravel basic auth 
+# laravel_authentication_demo
+this project contain laravel basic Authentication 
